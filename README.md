@@ -1,6 +1,6 @@
 # Insurance Charge Prediction
 This project provide a model to predict the insurance charges based on different feautures.
-This project is created because of AI Summer Camp'22 by Global AI Hub.
+This project is created for AI Summer Camp'22 organized by Global AI Hub.
 
 
 
